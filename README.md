@@ -87,7 +87,7 @@ README.md
      python Kafka/consumer_kafka.py
      ```
 
-6. **Verificar que los datos se almacenan** revisando la tabla en la base de datos MySQL usando `Verificacion.ipynb`.
+6. **Verificar que los datos se almacenen** revisando la tabla en la base de datos MySQL usando `Verificacion.ipynb`.
 
 ### Autor
 David Melo Valbuena
